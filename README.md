@@ -1,6 +1,26 @@
-# ds-project-template
+# Neue Fische Housing EDA
 
-Template for creating ds simple projects
+ ![alt text](heatmap_v2.png)
+
+This project is part of Neue Fische Data Science Bootcamp EDA lessons. It is centered around exploratory data
+analysis techniques and presentation of results to a client.
+
+Assignment & further specifications can be found [here](assignment.md).
+
+#### Choosen Persona is
+
+| Name                | client | Characteristics                                                                                                                                                                 |
+| ------------------- | ----------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Thomas Hansen       | Buyer       | 5 kids, no money, wants nice (social) neighborhood, Timing?, Location?
+
+
+For detailed infos about the EDA itself please check this [jupyter notebook](EDA.ipynb). Summary about the project and results can be found on this [pdf slides](neuefische_eda_project_wanchai.pdf).
+
+Additional files that has been provided in order to complete project task are:
+
+- [this jupyter notebook](1_Fetching_the_data_eda.ipynb) to import required dataset from external sql database
+- These [column names](column_names.md) provide more details about extracted dataset.
+
 
 ## Requirements
 
